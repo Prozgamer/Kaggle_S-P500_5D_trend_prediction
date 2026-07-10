@@ -24,4 +24,4 @@ This ensures that when the model generates a "Buy" signal, the probability of an
 # Business & Trading Implication
 While financial markets cannot be perfectly timed, this model serves as a data-driven decision-support tool for risk management. It can be integrated into a broader quantitative trading strategy to dynamically adjust portfolio exposure based on the predicted probability of a positive 5-day market regime.
 # Result
-[Result notebook]()
+[Result notebook](https://github.com/Prozgamer/Kaggle_S-P500_5D_trend_prediction/blob/main/S%26P500_trend_predicrion_final.ipynb)
